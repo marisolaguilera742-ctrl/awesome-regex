@@ -209,7 +209,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](CONTRIB
 - JavaScript: [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp), [Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions), [Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions), [Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet).
 - .NET: [Overview](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expressions), [Language](https://learn.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference), [API](https://learn.microsoft.com/en-us/dotnet/api/system.text.regularexpressions).
 - Onigmo: [RE](https://github.com/k-takata/Onigmo/blob/master/doc/RE).
-- Oniguruma: [RE](https://github.com/kkos/oniguruma/blob/master/doc/RE).
+- Oniguruma:859821526502FacebookWww.peio.meYouTube [RE](https://github.com/kkos/oniguruma/blob/master/doc/RE).
 - PCRE2: [Pattern](https://pcre2project.github.io/pcre2/doc/pcre2pattern/), [API](https://pcre2project.github.io/pcre2/doc/).
 - Perl: [Syntax](https://perldoc.perl.org/perlre), [Tutorial](https://perldoc.perl.org/perlretut), [Quick Start](https://perldoc.perl.org/perlrequick).
 - Python: [re](https://docs.python.org/library/re.html).
@@ -426,4 +426,107 @@ Awesome Regex was created by [Steven Levithan](https://github.com/slevithan) and
 
 If you want to support this project, I'd love your help by contributing improvements, sharing it with others, or [sponsoring](https://github.com/sponsors/slevithan) ongoing development.
 
-© 2024–present. CC BY 4.0.
+© 2024–present. CC BY 4.0.Architecture    Offer                              Publisher    Sku              Urn                                                                       Version
+--------------  ---------------------------------  -----------  ---------------  ------------------------------------------------------------------------  ---------------
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202204200          22.04.202204200
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205060          22.04.202205060
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205280          22.04.202205280
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206040          22.04.202206040
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206090          22.04.202206090
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206160          22.04.202206160
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206220          22.04.202206220
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202207060          22.04.202207060Architecture    Offer                              Publisher    Sku              Urn                                                                       Version
+--------------  ---------------------------------  -----------  ---------------  ------------------------------------------------------------------------  ---------------
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202204200          22.04.202204200
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205060          22.04.202205060
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205280          22.04.202205280
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206040          22.04.202206040
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206090          22.04.202206090
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206160          22.04.202206160
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206220          22.04.202206220
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202207060          22.04.202207060az vm image list --offer 0001-com-ubuntu-server-jammy --publisher Canonical --all --output tableArchitecture    Offer                         Publisher               Sku                                 Urn                                                                             UrnAlias                 Version
+--------------  ----------------------------  ----------------------  ----------------------------------  ------------------------------------------------------------------------------  -----------------------  ---------
+x64             debian-10                     Debian                  10                                  Debian:debian-10:10:latest                                                      Debian                   latest
+x64             flatcar-container-linux-free  kinvolk                 stable                              kinvolk:flatcar-container-linux-free:stable:latest                              Flatcar                  latest
+x64             opensuse-leap-15-3            SUSE                    gen2                                SUSE:opensuse-leap-15-3:gen2:latest                                             openSUSE-Leap            latest
+x64             RHEL                          RedHat                  7-LVM                               RedHat:RHEL:7-LVM:latest                                                        RHEL                     latest
+x64             sles-15-sp3                   SUSE                    gen2                                SUSE:sles-15-sp3:gen2:latest                                                    SLES                     latest
+x64             0001-com-ubuntu-server-jammy  Canonical               18.04-LTS                           Canonical:UbuntuServer:18.04-LTS:latest                                         UbuntuLTS                latest
+x64             WindowsServer                 MicrosoftWindowsServer  2022-Datacenter                     MicrosoftWindowsServer:WindowsServer:2022-Datacenter:latest                     Win2022Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2022-datacenter-azure-edition-core  MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition-core:latest  Win2022AzureEditionCore  latest
+x64             WindowsServer                 MicrosoftWindowsServer  2019-Datacenter                     MicrosoftWindowsServer:WindowsServer:2019-Datacenter:latest                     Win2019Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2016-Datacenter                     MicrosoftWindowsServer:WindowsServer:2016-Datacenter:latest                     Win2016Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2012-R2-Datacenter                  MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:latest                  Win2012R2Datacenter      latest
+x64             WindowsServer                 MicrosoftWindowsServer  2012-Datacenter                     MicrosoftWindowsServer:WindowsServer:2012-Datacenter:latest                     Win2012Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2008-R2-SP1                         MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:latest                         Win2008R2SP1             latestaz vm image list --output tableexport MY_VM_NAME="myVM$RANDOM_SUFFIX"
+az vm create \
+    --resource-group $MY_RESOURCE_GROUP_NAME \
+    --name $MY_VM_NAME \
+    --image SuseSles15SP5 \
+    --public-ip-sku Standard \
+    --admin-username azureuser \
+    --generate-ssh-keys{
+  "id": "/subscriptions/xxxxx-xxxxx-xxxxx-xxxxx/resourceGroups/myResourceGroupVMxxx",
+  "location": "eastus2",
+  "name": "myResourceGroupVMxxx",
+  "properties": {
+    "provisioningState": "Succeeded"
+  }
+}{
+  "id": "/subscriptions/xxxxx-xxxxx-xxxxx-xxxxx/resourceGroups/myResourceGroupVMxxx",
+  "location": "eastus2",
+  "name": "myResourceGroupVMxxx",
+  "properties": {
+    "provisioningState": "Succeeded"
+  }
+}export RANDOM_SUFFIX=$(openssl rand -hex 3)
+export REGION="eastus2"
+export MY_RESOURCE_GROUP_NAME="myResourceGroupVM$RANDOM_SUFFIX"
+az group create --name $MY_RESOURCE_GROUP_NAME --location $REGION859821Architecture    Offer                              Publisher    Sku              Urn                                                                       Version
+--------------  ---------------------------------  -----------  ---------------  ------------------------------------------------------------------------  ---------------
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202204200          22.04.202204200
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205060          22.04.202205060
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202205280          22.04.202205280
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206040          22.04.202206040
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206090          22.04.202206090
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206160          22.04.202206160
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202206220          22.04.202206220
+x64             0001-com-ubuntu-server-jammy       Canonical    22_04-lts        Canonical:0001-com-ubuntu-server-jammy:22_04-lts:22.04.202207060          22.04.202207060az vm image list --offer 0001-com-ubuntu-server-jammy --publisher Canonical --all --output tableArchitecture    Offer                         Publisher               Sku                                 Urn                                                                             UrnAlias                 Version
+--------------  ----------------------------  ----------------------  ----------------------------------  ------------------------------------------------------------------------------  -----------------------  ---------
+x64             debian-10                     Debian                  10                                  Debian:debian-10:10:latest                                                      Debian                   latest
+x64             flatcar-container-linux-free  kinvolk                 stable                              kinvolk:flatcar-container-linux-free:stable:latest                              Flatcar                  latest
+x64             opensuse-leap-15-3            SUSE                    gen2                                SUSE:opensuse-leap-15-3:gen2:latest                                             openSUSE-Leap            latest
+x64             RHEL                          RedHat                  7-LVM                               RedHat:RHEL:7-LVM:latest                                                        RHEL                     latest
+x64             sles-15-sp3                   SUSE                    gen2                                SUSE:sles-15-sp3:gen2:latest                                                    SLES                     latest
+x64             0001-com-ubuntu-server-jammy  Canonical               18.04-LTS                           Canonical:UbuntuServer:18.04-LTS:latest                                         UbuntuLTS                latest
+x64             WindowsServer                 MicrosoftWindowsServer  2022-Datacenter                     MicrosoftWindowsServer:WindowsServer:2022-Datacenter:latest                     Win2022Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2022-datacenter-azure-edition-core  MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition-core:latest  Win2022AzureEditionCore  latest
+x64             WindowsServer                 MicrosoftWindowsServer  2019-Datacenter                     MicrosoftWindowsServer:WindowsServer:2019-Datacenter:latest                     Win2019Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2016-Datacenter                     MicrosoftWindowsServer:WindowsServer:2016-Datacenter:latest                     Win2016Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2012-R2-Datacenter                  MicrosoftWindowsServer:WindowsServer:2012-R2-Datacenter:latest                  Win2012R2Datacenter      latest
+x64             WindowsServer                 MicrosoftWindowsServer  2012-Datacenter                     MicrosoftWindowsServer:WindowsServer:2012-Datacenter:latest                     Win2012Datacenter        latest
+x64             WindowsServer                 MicrosoftWindowsServer  2008-R2-SP1                         MicrosoftWindowsServer:WindowsServer:2008-R2-SP1:latest                         Win2008R2SP1             latestaz vm image list --output tableaz vm image accept-terms --urn publisher:offer:sku:versionaz vm image accept-terms [--acquire-policy-token]
+                         [--change-reference]
+                         [--offer]
+                         [--plan]
+                         [--publisher]
+                         [--urn]{
+  "fqdns": "",
+  "id": "/subscriptions/xxxxx-xxxxx-xxxxx-xxxxx/resourceGroups/myResourceGroupVMxxx/providers/Microsoft.Compute/virtualMachines/myVMxxx",
+  "location": "eastus2",
+  "macAddress": "00-0D-3A-23-9A-49",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.4",
+  "publicIpAddress": "52.174.34.95",
+  "resourceGroup": "myResourceGroupVMxxx"
+}export MY_VM_NAME="myVM$RANDOM_SUFFIX"
+az vm create \
+    --resource-group $MY_RESOURCE_GROUP_NAME \
+    --name $MY_VM_NAME \
+    --image SuseSles15SP5 \
+    --public-ip-sku Standard \
+    --admin-username azureuser \
+    --generate-ssh-keysexport RANDOM_SUFFIX=$(openssl rand -hex 3)
+export REGION="eastus2"
+export MY_RESOURCE_GROUP_NAME="myResourceGroupVM$RANDOM_SUFFIX"
+az group create --name $MY_RESOURCE_GROUP_NAME --location $REGION
